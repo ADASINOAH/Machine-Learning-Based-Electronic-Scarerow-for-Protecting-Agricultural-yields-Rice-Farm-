@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.7.0
+pillow>=9.0.0
+numpy>=1.23.0
+picamera>=1.13
+gpiozero>=1.6.2
+RPi.GPIO>=0.7.0
+pyyaml>=6.0
+requests>=2.31.0
+scipy>=1.10.1
+mpyplayer>=1.0.0
+pydub>=0.25.1
